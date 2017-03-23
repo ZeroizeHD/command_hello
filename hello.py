@@ -1,0 +1,2 @@
+print("ABCD")
+print("EFG")
